@@ -187,7 +187,6 @@ EXTERNAL_LINKS = {
         ("https://forum.openframeworks.cc", "forum"),
         ("http://ofxaddons.com", "addons"),
         ("https://github.com/openframeworks", "github"),
-        ("http://openframeworks.cc/list-info", "mailing list"),
         ("http://webchat.freenode.net/?channels=openframeworks&uio=MT1mYWxzZSY5PXRydWUmMTE9Mjk39", "IRC"),
         ("http://blog.openframeworks.cc/", "blog"),
     ),
